@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', '>= 1.3.0'
   
-  s.add_dependency 'aws-sdk'
+  s.add_dependency 'aws-sdk', '1.27.0'
   s.add_dependency 'paperclip'
 end
 
